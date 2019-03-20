@@ -1,4 +1,5 @@
-var data = {
+var data = [
+{
     "1": "Yale",
     "2": "St. Andrews",
     "3": "Glasgow",
@@ -3757,5 +3758,5 @@ var data = {
     "43": "Liverpool",
     "44": "LIPA",
     "FIELD1": "wk2_fri_p7"
-  }
+  }]
 
