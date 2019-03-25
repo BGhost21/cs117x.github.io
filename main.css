@@ -22,7 +22,7 @@ li {
 
 button {
 	padding:10px;
-	background-color: #607D8B;
+	background-color: #a2a2a2;
 	margin:0;
 
 
@@ -33,7 +33,7 @@ button {
     margin: 0;
     border-radius: 3px;
     overflow: hidden;
-    background-color:#B3E5FC;
+    background-color:#b7b7b7;
 }
 
 .select-style select {
@@ -55,6 +55,6 @@ button {
 select {
 	margin:10px;
 	border: 1px solid #ccc;
-	background-color:#B3E5FC;
+	background-color:#b7b7b7;
 
 }
